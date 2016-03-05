@@ -61,16 +61,16 @@ namespace Halo5ReqParser
 				ownedCount += group.OwnedCount;
 				totalCount += group.TotalCount;
 
-				printl("Category: " + group.ReqCategory + "(" + group.OwnedCount + "/" + group.TotalCount + ")");
+				IO.Printl("Category: " + group.ReqCategory + "(" + group.OwnedCount + "/" + group.TotalCount + ")");
 				foreach (var item in group.reqGroupStats)
 				{
 					//printl(" - " + item.RarityLevel + ": " + item.OwnedCount + "/" + item.TotalCount);
-					printl(string.Format(" - {0, -9}: {1}/{2}", item.RarityLevel, item.OwnedCount, item.TotalCount));
+					IO.Printl(string.Format(" - {0, -9}: {1}/{2}", item.RarityLevel, item.OwnedCount, item.TotalCount));
 					//costs[(int)item.RarityLevel] += GetMinimumRequiredCards(item.RarityLevel, item.TotalCount, item.OwnedCount);
 					totals[(int)item.RarityLevel].OwnedCount += item.OwnedCount;
 					totals[(int)item.RarityLevel].TotalCount += item.TotalCount;
 				}
-				printl();
+				IO.Printl();
 			}
 
 			foreach (var total in totals)
@@ -78,7 +78,7 @@ namespace Halo5ReqParser
 				GetLowestCardForRarity(total.RarityLevel).NeededCount += total.TotalCount - total.OwnedCount;
 			}
 
-			printl(string.Format("Total: {0}/{1}", ownedCount, totalCount));
+			IO.Printl(string.Format("Total: {0}/{1}", ownedCount, totalCount));
 			//for (int i = 0; i < totals.Length; i++)
 			//foreach (var total in totals)
 			//{
@@ -89,7 +89,7 @@ namespace Halo5ReqParser
 
 			foreach (var pack in ReqPacks)
 			{
-				printl(string.Format(" {0, 7} packs needed: {1} ({2:###,###} RP)", pack.Name, pack.NeededCount, pack.NeededCount * pack.Price));
+				IO.Printl(string.Format(" {0, 7} packs needed: {1} ({2:###,###} RP)", pack.Name, pack.NeededCount, pack.NeededCount * pack.Price));
 			}
 		}
 
@@ -100,7 +100,7 @@ namespace Halo5ReqParser
 			HtmlDocument doc = new HtmlDocument();
 			//var path = reqFileCustomization; //"HWPage.htm";
 			doc.Load(path);
-			print("-> Getting REQ data " + path + "...");
+			IO.Print("-> Getting REQ data " + path + "...");
 
 			//foreach (var link in doc.DocumentNode.SelectNodes("//a[@class]"))
 			foreach (var item in doc.DocumentNode.Descendants("div").Where(d => d.Attributes.Contains("class") && d.Attributes["class"].Value.Contains("card")))
@@ -151,7 +151,7 @@ namespace Halo5ReqParser
 				reqGroups[(int)category].TotalCount++;
 			}
 
-			printl(" done\n");
+			IO.Printl(" done\n");
 		}
 
 		/// <summary>
@@ -241,21 +241,6 @@ namespace Halo5ReqParser
 				packToBuy = ReqPacks[2];
 			}
 			return packToBuy;
-		}
-
-		void printl()
-		{
-			Console.WriteLine();
-		}
-
-		void printl(string s)
-		{
-			Console.WriteLine(s);
-		}
-
-		void print(string s)
-		{
-			Console.Write(s);
 		}
 
 		public RarityLevel ParseLineToRarity(string line)
