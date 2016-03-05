@@ -1,6 +1,7 @@
 ﻿using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -42,11 +43,17 @@ namespace Halo5ReqParser
 			}
 		}
 
-		public void ParseAllReqs()
+		public int ParseAllReqs()
 		{
-			ParseData(reqFileCustomization, ReqCategory.Customization);
-			ParseData(reqFileLoadout, ReqCategory.Loadout);
-			ParseData(reqFilePower, ReqCategory.PowerVehicle);
+			int parseStatus = 0;
+			parseStatus += ParseData(reqFileCustomization, ReqCategory.Customization);
+			parseStatus += ParseData(reqFileLoadout, ReqCategory.Loadout);
+			parseStatus += ParseData(reqFilePower, ReqCategory.PowerVehicle);
+			if (parseStatus != 0)
+			{
+				IO.Printl("Couldn't parse, exiting...");
+				return 1;
+			}
 
 			int ownedCount = 0, totalCount = 0;
 			//int[] totals = new int[] { 0, 0, 0, 0, 0 };
@@ -91,15 +98,29 @@ namespace Halo5ReqParser
 			{
 				IO.Printl(string.Format(" {0, 7} packs needed: {1} ({2:###,###} RP)", pack.Name, pack.NeededCount, pack.NeededCount * pack.Price));
 			}
+			return 0;
 		}
 
 		
 
-		public void ParseData(string path, ReqCategory category)
+		public int ParseData(string path, ReqCategory category)
 		{
 			HtmlDocument doc = new HtmlDocument();
 			//var path = reqFileCustomization; //"HWPage.htm";
-			doc.Load(path);
+			try
+			{
+				doc.Load(path);
+			}
+			catch (FileNotFoundException ex)
+			{
+				IO.Printl("Couldn't open the file [" + path + "]");
+				return 1;
+			}
+			catch (Exception ex)
+			{
+				IO.Printl("An error occured while openeing the file [" + path + "] (" + ex.Message + ")");
+				return 1;
+			}
 			IO.Print("-> Getting REQ data " + path + "...");
 
 			//foreach (var link in doc.DocumentNode.SelectNodes("//a[@class]"))
@@ -152,6 +173,7 @@ namespace Halo5ReqParser
 			}
 
 			IO.Printl(" done\n");
+			return 0;
 		}
 
 		/// <summary>

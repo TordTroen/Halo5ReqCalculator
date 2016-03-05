@@ -18,13 +18,13 @@ namespace Halo5ReqParser
 
 			parser.reqFileCustomization = IO.GetLine("Input path/drag and drop file for customization page: ");
 			parser.reqFileLoadout = IO.GetLine("Input path/drag and drop file for loadout page: ");
-			parser.reqFilePower = IO.GetLine("Input path/drag and drop file for power6vehicle page: ");
+			parser.reqFilePower = IO.GetLine("Input path/drag and drop file for power&vehicle page: ");
 			IO.PrintDivider();
 
 			parser.ParseAllReqs();
 
 			IO.Printl();
-			IO.Printl("Any key to exit...");
+			IO.Printl("Any key to continue...");
 			Console.ReadKey();
 		}
 	}
