@@ -1,0 +1,1864 @@
+[
+  {
+    "Name":"117",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Beard",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Builder",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 5"
+  },
+  {
+    "Name":"Elementary",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 2"
+  },
+  {
+    "Name":"Gassed",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Griffin",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Helmet",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Jolly Roger",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Knot",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 3"
+  },
+  {
+    "Name":"Kukri",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Links",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 4"
+  },
+  {
+    "Name":"Mjolnir",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Rooster",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Runes",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Skull King",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Skull Party",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Spartan",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Spartan X",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Tomcat",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Wolf",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Yin Yang",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":"Starter Emblem"
+  },
+  {
+    "Name":"Auspicious",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Avian",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 30"
+  },
+  {
+    "Name":"Buckeyes",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Celestial",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 35"
+  },
+  {
+    "Name":"Cone'd",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"SPNKR Pack"
+  },
+  {
+    "Name":"Conspiracy",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Flaming Horns",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Ground Pound",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Geronimo Pack"
+  },
+  {
+    "Name":"Hammock",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Imbrium Machine Complex",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"IX",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Killer Bee",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 15"
+  },
+  {
+    "Name":"Mad Dawg",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Militia",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Navy",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 50"
+  },
+  {
+    "Name":"Number Eight",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Five",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Four",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Nine",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number One",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Seven",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Six",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Three",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Two",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Zero",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"ODST",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 40"
+  },
+  {
+    "Name":"Patch",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 25"
+  },
+  {
+    "Name":"Principle",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 10"
+  },
+  {
+    "Name":"Spades",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Stealth",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 20"
+  },
+  {
+    "Name":"All Square",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Suppressor Pack"
+  },
+  {
+    "Name":"Anchorite",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"And Stay Off Pack"
+  },
+  {
+    "Name":"Angels' Mark",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Banshee Destroyer Pack"
+  },
+  {
+    "Name":"Anjou",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Antelope",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Flag Victory Pack"
+  },
+  {
+    "Name":"AR Start",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Assault Rifle Pack"
+  },
+  {
+    "Name":"Army",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 60"
+  },
+  {
+    "Name":"Arrow on Target",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Binary Rifle Pack"
+  },
+  {
+    "Name":"Assassin",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Assassin Pack"
+  },
+  {
+    "Name":"Axiom",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Storm Rifle Pack"
+  },
+  {
+    "Name":"Blue Team",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 90"
+  },
+  {
+    "Name":"Bolt",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Boltshot Pack"
+  },
+  {
+    "Name":"Bulltrue",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Combat Opportunist Pack"
+  },
+  {
+    "Name":"Campfire",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Head in the Game Pack"
+  },
+  {
+    "Name":"CAMS",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Scorpion Destroyer Pack"
+  },
+  {
+    "Name":"Cascade Stronghold Technologies",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Wraith Destroyer Pack"
+  },
+  {
+    "Name":"Cherry Bomb",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Chief's Crest",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Weapon Mastery Pack"
+  },
+  {
+    "Name":"Clubs",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Confirmation",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Sniper Rifle Pack"
+  },
+  {
+    "Name":"Covenant Signet",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Covenant Destroyer Pack"
+  },
+  {
+    "Name":"Cowboy Ninja",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Commendation REQ Pack"
+  },
+  {
+    "Name":"Crash",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Splatter Pack"
+  },
+  {
+    "Name":"Cubicle",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Warthog Destroyer Pack"
+  },
+  {
+    "Name":"Cup of Death",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Diamonds",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Duet",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Eagle",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"ECO",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Stronghold Victory Pack"
+  },
+  {
+    "Name":"Enlisted",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Hydra Launcher Pack"
+  },
+  {
+    "Name":"Equilateral",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Gausshog Gunner Pack"
+  },
+  {
+    "Name":"Eye of the Beast",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Whites of Their Eyes Pack"
+  },
+  {
+    "Name":"Falcon",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Shotgun Pack"
+  },
+  {
+    "Name":"Fireborn",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Railgun Pack"
+  },
+  {
+    "Name":"Fireteam Crimson",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Jackal Slayer Pack"
+  },
+  {
+    "Name":"Fireteam Osiris",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 80"
+  },
+  {
+    "Name":"Flaming Skull",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"Spartan Spree Pack"
+  },
+  {
+    "Name":"Flip Mode",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"No",
+    "Special Pack":"SMG Pack"
+  },
+  {
+    "Name":"Fly Bye",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Forerunner Signet",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Forerunner Destroyer Pack"
+  },
+  {
+    "Name":"Frag",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Frontier",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Aggressive Expansion Pack"
+  },
+  {
+    "Name":"Great Hunt",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Big Game Hunter Pack"
+  },
+  {
+    "Name":"Greeter",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Hammer",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Unkown"
+  },
+  {
+    "Name":"Hand of the Didact",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Warden Slayer Pack"
+  },
+  {
+    "Name":"Hannibal Weapon Systems",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Wonderful Toys Pack"
+  },
+  {
+    "Name":"Hastati",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Wargoose Gunner Pack"
+  },
+  {
+    "Name":"Headshot",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Bullet in the Brain Pack"
+  },
+  {
+    "Name":"Hearts",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Helper Unit IV",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Hunter Prey",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Hunter Slayer Pack"
+  },
+  {
+    "Name":"Imperial",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Storm the Walls Pack"
+  },
+  {
+    "Name":"Implied",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Magnum Pack"
+  },
+  {
+    "Name":"Incinerate",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Incineration Cannon Pack"
+  },
+  {
+    "Name":"Infected",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Invex",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Scattershot Pack"
+  },
+  {
+    "Name":"J1-GL Bot",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Jewel",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Knight Slayer Pack"
+  },
+  {
+    "Name":"Lemon's Head",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Listener",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Beam Rifle Pack"
+  },
+  {
+    "Name":"Loading",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Banshee Gunner Pack"
+  },
+  {
+    "Name":"Loupe",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Mine! Pack"
+  },
+  {
+    "Name":"Mantis",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Mantis Destroyer Pack"
+  },
+  {
+    "Name":"Marauder",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Marine Replicant Slayer Pack"
+  },
+  {
+    "Name":"Mark of the Hog",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Warthog Gunner Pack"
+  },
+  {
+    "Name":"Matrix",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Crawler Slayer Pack"
+  },
+  {
+    "Name":"Maw",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Elite Slayer Pack"
+  },
+  {
+    "Name":"Merry Berry",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Meteor",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Phaeton Gunship Gunner Pack"
+  },
+  {
+    "Name":"Mixer",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"SAW Pack"
+  },
+  {
+    "Name":"Mushroom",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Rocket Launcher Pack"
+  },
+  {
+    "Name":"Naded",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Frag Grenade Pack"
+  },
+  {
+    "Name":"Nadir",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Network",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Watcher Slayer Pack"
+  },
+  {
+    "Name":"Nexus",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Light Rifle Pack"
+  },
+  {
+    "Name":"Noble",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Defender of the Flag Pack"
+  },
+  {
+    "Name":"Noise",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 130"
+  },
+  {
+    "Name":"Nucleus",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Rockethog Gunner Pack"
+  },
+  {
+    "Name":"ONI",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 70"
+  },
+  {
+    "Name":"Options",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Assistant Pack"
+  },
+  {
+    "Name":"Orbit",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Conqueror Pack"
+  },
+  {
+    "Name":"Panda BR",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Battle Rifle Pack"
+  },
+  {
+    "Name":"Pinwheel",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Carbine Pack"
+  },
+  {
+    "Name":"Pioneer",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Phaeton Gunship Destroyer Pack"
+  },
+  {
+    "Name":"Pirate",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Ghost Destroyer Pack"
+  },
+  {
+    "Name":"Pivot",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Laser Pack"
+  },
+  {
+    "Name":"Platform",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Unknown"
+  },
+  {
+    "Name":"Power",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Prancer",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Plasma Grenade Pack"
+  },
+  {
+    "Name":"Predator",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Hunter Pack"
+  },
+  {
+    "Name":"Prime",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Carrier Takedown Pack"
+  },
+  {
+    "Name":"Radioactive",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Fuel Rod Cannon Pack"
+  },
+  {
+    "Name":"Ratio",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 100"
+  },
+  {
+    "Name":"Reclaimer",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Soldier Slayer Pack"
+  },
+  {
+    "Name":"Revolve",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Wheelman Pack"
+  },
+  {
+    "Name":"Rhino",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Juggernaut Pack"
+  },
+  {
+    "Name":"Salient Sword",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Energy Sword Pack"
+  },
+  {
+    "Name":"Scarab",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Needler Pack"
+  },
+  {
+    "Name":"Scorpion",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Scorpion Gunner Pack"
+  },
+  {
+    "Name":"Screw",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Unknown"
+  },
+  {
+    "Name":"Signal",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 115"
+  },
+  {
+    "Name":"Spartan League",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Breakout Victory Pack"
+  },
+  {
+    "Name":"Spartan Seal",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Bulldozer Pack"
+  },
+  {
+    "Name":"Spartan Swords",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Splinter",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Splinter Grenade Pack"
+  },
+  {
+    "Name":"Stars and Stripes",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Tag It",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"DMR Pack"
+  },
+  {
+    "Name":"Teeth",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Grunt Slayer Pack"
+  },
+  {
+    "Name":"Three Eyes",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Multikill Pack"
+  },
+  {
+    "Name":"Tracker",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Traitor",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Slayer Pack"
+  },
+  {
+    "Name":"Triad",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Smash Pack"
+  },
+  {
+    "Name":"Triangulate",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Triarch",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Protector Pack"
+  },
+  {
+    "Name":"Tricube",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Unicorn",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Mantis Gunner Pack"
+  },
+  {
+    "Name":"UNSC",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Slayer Victory Pack"
+  },
+  {
+    "Name":"Valencia",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Volatile",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Plasma Caster Pack"
+  },
+  {
+    "Name":"Warlord",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Against All Odds Pack"
+  },
+  {
+    "Name":"Wasp",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Ghost Gunner Pack"
+  },
+  {
+    "Name":"Watershed Division",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Close Quarters Pack"
+  },
+  {
+    "Name":"Waves",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Wraith Gunner Pack"
+  },
+  {
+    "Name":"Winged",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Unstoppable Pack"
+  },
+  {
+    "Name":"Arbiter",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Monster Energy Drink Promo"
+  },
+  {
+    "Name":"Arrow",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Astro",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"ASTRO Gaming Headset"
+  },
+  {
+    "Name":"Awake",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 148"
+  },
+  {
+    "Name":"Barcode",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Unknown"
+  },
+  {
+    "Name":"Clippy",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Special 12-Month Xbox Live Cards"
+  },
+  {
+    "Name":"Cognate",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 146"
+  },
+  {
+    "Name":"Confine",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Loadout Weapon Mastery Pack"
+  },
+  {
+    "Name":"Danger! Explosion",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Monster Energy Drink Promo"
+  },
+  {
+    "Name":"Fireteam Castle",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Fireteam Majestic",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Flaming Ninja",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Frozen Treat",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Glyphs",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Monster Energy Drink Promo"
+  },
+  {
+    "Name":"Grenadier",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Grenade Mastery Pack"
+  },
+  {
+    "Name":"Grizzly Tank",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Hexa",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Hot Pie",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Unknown"
+  },
+  {
+    "Name":"Iris",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Slayer Mastery Pack"
+  },
+  {
+    "Name":"Isosceles",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Forerunner Power Weapon Mastery Pack"
+  },
+  {
+    "Name":"J!nx",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"J!nx Clothing Items"
+  },
+  {
+    "Name":"Kindred",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 145"
+  },
+  {
+    "Name":"LDC Seal",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Gamestop Preorder Bonus"
+  },
+  {
+    "Name":"Liang Dortmund",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Gamestop Preorder Bonus"
+  },
+  {
+    "Name":"Mega Bloks Banner",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Mega Bloks Set"
+  },
+  {
+    "Name":"Mega Bloks X",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Mega Bloks Set"
+  },
+  {
+    "Name":"Microsoft Bob",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Special 12-Month Xbox Live Cards"
+  },
+  {
+    "Name":"Mister Chief",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"MS-DOS",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Microsoft Store Preorder"
+  },
+  {
+    "Name":"Pigs Fly",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Pyramid",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Breakout Mastery Pack"
+  },
+  {
+    "Name":"Redeem",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Special 12-Month Xbox Live Cards"
+  },
+  {
+    "Name":"Renewing Worlds",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Gamestop Preorder Bonus"
+  },
+  {
+    "Name":"Slumber",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 147"
+  },
+  {
+    "Name":"Spartan-IV",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"UNSC Power Weapon Mastery Pack"
+  },
+  {
+    "Name":"Spicy Locke",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Sprinkles",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Summit",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Stronghold Mastery Pack"
+  },
+  {
+    "Name":"Thanks Given",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Thanksgiving REQ Pack"
+  },
+  {
+    "Name":"Unworthy",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Covenant Power Weapon Mastery Pack"
+  },
+  {
+    "Name":"Vanguard",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Halo 5 Edition Console"
+  },
+  {
+    "Name":"Acheron Security",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"AMG Transport Dynamics",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Axis",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Beta Prime",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Halo 5 Beta"
+  },
+  {
+    "Name":"Beta Recruit",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Halo 5 Beta"
+  },
+  {
+    "Name":"Beta Star",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Halo 5 Beta"
+  },
+  {
+    "Name":"Candy Canes",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Christmastime REQ Pack"
+  },
+  {
+    "Name":"Covenant",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Microsoft Store Preorder"
+  },
+  {
+    "Name":"Great Wheel",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Vehicle Mastery Pack"
+  },
+  {
+    "Name":"Guardian",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 151"
+  },
+  {
+    "Name":"Halo Championship Series",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"HCS Pack"
+  },
+  {
+    "Name":"Halo Channel",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Halo Channel Promo Pack"
+  },
+  {
+    "Name":"Lethbridge Industrial",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Librarian",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Halo Community Feedback Program"
+  },
+  {
+    "Name":"Magnum Opus",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Arena Mastery Pack"
+  },
+  {
+    "Name":"Mantle",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 152"
+  },
+  {
+    "Name":"Misriah Armory",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Monolith",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Prima",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Collector's Edition Strategy Guide"
+  },
+  {
+    "Name":"Sentient",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 115"
+  },
+  {
+    "Name":"Spartan Claus",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":"Christmastime REQ Pack"
+  },
+  {
+    "Name":"Stuck",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Warden",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartan Rank 150"
+  },
+  {
+    "Name":"War's Quintet",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Warzone Mastery Pack"
+  },
+  {
+    "Name":"Atrial Flight",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Boomco.",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"BR 55",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Chamomile",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Keeper of the Domain",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Kig-Yar",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Number Twelve",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Snake",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Unggoy",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Crossed Swords",
+    "Rarity":"Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"January 2016 Season",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Qualify during January 2016 Season"
+  },
+  {
+    "Name":"Forge Monitor",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Brute",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Spartan Helmet",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Triplicate",
+    "Rarity":"Common",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Golden Arm",
+    "Rarity":"Uncommon",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Kinetic",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Vertigo",
+    "Rarity":"Uncommon",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Ducat",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Grifball",
+    "Rarity":"Rare",
+    "Have":"x",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Rabbit",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"Tartan",
+    "Rarity":"Ultra Rare",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"M6D",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"Yes",
+    "Special Pack":""
+  },
+  {
+    "Name":"True Light",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Spartans Will Never Walk Alone pack"
+  },
+  {
+    "Name":"February 2016 Season",
+    "Rarity":"Legendary",
+    "Have":"",
+    "Standard":"No",
+    "Special Pack":"Qualify during February 2016 Season"
+  }
+]
