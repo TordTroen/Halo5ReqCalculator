@@ -1,0 +1,1867 @@
+﻿{
+"Items":
+  [
+    {
+      "Name": "117",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Beard",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Builder",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 5"
+    },
+    {
+      "Name": "Elementary",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 2"
+    },
+    {
+      "Name": "Gassed",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Griffin",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Helmet",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Jolly Roger",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Knot",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 3"
+    },
+    {
+      "Name": "Kukri",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Links",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 4"
+    },
+    {
+      "Name": "Mjolnir",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Rooster",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Runes",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Skull King",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Skull Party",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Spartan",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Spartan X",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tomcat",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Wolf",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Yin Yang",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Starter Emblem"
+    },
+    {
+      "Name": "Auspicious",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Avian",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 30"
+    },
+    {
+      "Name": "Buckeyes",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Celestial",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 35"
+    },
+    {
+      "Name": "Cone'd",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "SPNKR Pack"
+    },
+    {
+      "Name": "Conspiracy",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Flaming Horns",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Ground Pound",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Geronimo Pack"
+    },
+    {
+      "Name": "Hammock",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Imbrium Machine Complex",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "IX",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Killer Bee",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 15"
+    },
+    {
+      "Name": "Mad Dawg",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Militia",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Navy",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 50"
+    },
+    {
+      "Name": "Number Eight",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Five",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Four",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Nine",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number One",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Seven",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Six",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Three",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Two",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Zero",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "ODST",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 40"
+    },
+    {
+      "Name": "Patch",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 25"
+    },
+    {
+      "Name": "Principle",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 10"
+    },
+    {
+      "Name": "Spades",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Stealth",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 20"
+    },
+    {
+      "Name": "All Square",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Suppressor Pack"
+    },
+    {
+      "Name": "Anchorite",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "And Stay Off Pack"
+    },
+    {
+      "Name": "Angels' Mark",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Banshee Destroyer Pack"
+    },
+    {
+      "Name": "Anjou",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Antelope",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Flag Victory Pack"
+    },
+    {
+      "Name": "AR Start",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Assault Rifle Pack"
+    },
+    {
+      "Name": "Army",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Rank 60"
+    },
+    {
+      "Name": "Arrow on Target",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Binary Rifle Pack"
+    },
+    {
+      "Name": "Assassin",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Assassin Pack"
+    },
+    {
+      "Name": "Axiom",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Storm Rifle Pack"
+    },
+    {
+      "Name": "Blue Team",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 90"
+    },
+    {
+      "Name": "Bolt",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Boltshot Pack"
+    },
+    {
+      "Name": "Bulltrue",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Combat Opportunist Pack"
+    },
+    {
+      "Name": "Campfire",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Head in the Game Pack"
+    },
+    {
+      "Name": "CAMS",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Scorpion Destroyer Pack"
+    },
+    {
+      "Name": "Cascade Stronghold Technologies",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Wraith Destroyer Pack"
+    },
+    {
+      "Name": "Cherry Bomb",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Chief's Crest",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Weapon Mastery Pack"
+    },
+    {
+      "Name": "Clubs",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Confirmation",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Sniper Rifle Pack"
+    },
+    {
+      "Name": "Covenant Signet",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Covenant Destroyer Pack"
+    },
+    {
+      "Name": "Cowboy Ninja",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Commendation REQ Pack"
+    },
+    {
+      "Name": "Crash",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Splatter Pack"
+    },
+    {
+      "Name": "Cubicle",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Warthog Destroyer Pack"
+    },
+    {
+      "Name": "Cup of Death",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Diamonds",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Duet",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Eagle",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "ECO",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Stronghold Victory Pack"
+    },
+    {
+      "Name": "Enlisted",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Hydra Launcher Pack"
+    },
+    {
+      "Name": "Equilateral",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Gausshog Gunner Pack"
+    },
+    {
+      "Name": "Eye of the Beast",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Whites of Their Eyes Pack"
+    },
+    {
+      "Name": "Falcon",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Shotgun Pack"
+    },
+    {
+      "Name": "Fireborn",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Railgun Pack"
+    },
+    {
+      "Name": "Fireteam Crimson",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Jackal Slayer Pack"
+    },
+    {
+      "Name": "Fireteam Osiris",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 80"
+    },
+    {
+      "Name": "Flaming Skull",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Spartan Spree Pack"
+    },
+    {
+      "Name": "Flip Mode",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "SMG Pack"
+    },
+    {
+      "Name": "Fly Bye",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Forerunner Signet",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Forerunner Destroyer Pack"
+    },
+    {
+      "Name": "Frag",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Frontier",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Aggressive Expansion Pack"
+    },
+    {
+      "Name": "Great Hunt",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Big Game Hunter Pack"
+    },
+    {
+      "Name": "Greeter",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hammer",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Unkown"
+    },
+    {
+      "Name": "Hand of the Didact",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Warden Slayer Pack"
+    },
+    {
+      "Name": "Hannibal Weapon Systems",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Wonderful Toys Pack"
+    },
+    {
+      "Name": "Hastati",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Wargoose Gunner Pack"
+    },
+    {
+      "Name": "Headshot",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Bullet in the Brain Pack"
+    },
+    {
+      "Name": "Hearts",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Helper Unit IV",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hunter Prey",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Hunter Slayer Pack"
+    },
+    {
+      "Name": "Imperial",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Storm the Walls Pack"
+    },
+    {
+      "Name": "Implied",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Magnum Pack"
+    },
+    {
+      "Name": "Incinerate",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Incineration Cannon Pack"
+    },
+    {
+      "Name": "Infected",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Invex",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Scattershot Pack"
+    },
+    {
+      "Name": "J1-GL Bot",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Jewel",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Knight Slayer Pack"
+    },
+    {
+      "Name": "Lemon's Head",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Listener",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Beam Rifle Pack"
+    },
+    {
+      "Name": "Loading",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Banshee Gunner Pack"
+    },
+    {
+      "Name": "Loupe",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Mine! Pack"
+    },
+    {
+      "Name": "Mantis",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Mantis Destroyer Pack"
+    },
+    {
+      "Name": "Marauder",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Marine Replicant Slayer Pack"
+    },
+    {
+      "Name": "Mark of the Hog",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Warthog Gunner Pack"
+    },
+    {
+      "Name": "Matrix",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Crawler Slayer Pack"
+    },
+    {
+      "Name": "Maw",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Elite Slayer Pack"
+    },
+    {
+      "Name": "Merry Berry",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Meteor",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Phaeton Gunship Gunner Pack"
+    },
+    {
+      "Name": "Mixer",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "SAW Pack"
+    },
+    {
+      "Name": "Mushroom",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Rocket Launcher Pack"
+    },
+    {
+      "Name": "Naded",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Frag Grenade Pack"
+    },
+    {
+      "Name": "Nadir",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Network",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Watcher Slayer Pack"
+    },
+    {
+      "Name": "Nexus",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Light Rifle Pack"
+    },
+    {
+      "Name": "Noble",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Defender of the Flag Pack"
+    },
+    {
+      "Name": "Noise",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 130"
+    },
+    {
+      "Name": "Nucleus",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Rockethog Gunner Pack"
+    },
+    {
+      "Name": "ONI",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 70"
+    },
+    {
+      "Name": "Options",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Assistant Pack"
+    },
+    {
+      "Name": "Orbit",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Conqueror Pack"
+    },
+    {
+      "Name": "Panda BR",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Battle Rifle Pack"
+    },
+    {
+      "Name": "Pinwheel",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Carbine Pack"
+    },
+    {
+      "Name": "Pioneer",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Phaeton Gunship Destroyer Pack"
+    },
+    {
+      "Name": "Pirate",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Ghost Destroyer Pack"
+    },
+    {
+      "Name": "Pivot",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Laser Pack"
+    },
+    {
+      "Name": "Platform",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Unknown"
+    },
+    {
+      "Name": "Power",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Prancer",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Plasma Grenade Pack"
+    },
+    {
+      "Name": "Predator",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Hunter Pack"
+    },
+    {
+      "Name": "Prime",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Carrier Takedown Pack"
+    },
+    {
+      "Name": "Radioactive",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Fuel Rod Cannon Pack"
+    },
+    {
+      "Name": "Ratio",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 100"
+    },
+    {
+      "Name": "Reclaimer",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Soldier Slayer Pack"
+    },
+    {
+      "Name": "Revolve",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Wheelman Pack"
+    },
+    {
+      "Name": "Rhino",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Juggernaut Pack"
+    },
+    {
+      "Name": "Salient Sword",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Energy Sword Pack"
+    },
+    {
+      "Name": "Scarab",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Needler Pack"
+    },
+    {
+      "Name": "Scorpion",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Scorpion Gunner Pack"
+    },
+    {
+      "Name": "Screw",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Unknown"
+    },
+    {
+      "Name": "Signal",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 115"
+    },
+    {
+      "Name": "Spartan League",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Breakout Victory Pack"
+    },
+    {
+      "Name": "Spartan Seal",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Bulldozer Pack"
+    },
+    {
+      "Name": "Spartan Swords",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Splinter",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Splinter Grenade Pack"
+    },
+    {
+      "Name": "Stars and Stripes",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tag It",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "DMR Pack"
+    },
+    {
+      "Name": "Teeth",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Grunt Slayer Pack"
+    },
+    {
+      "Name": "Three Eyes",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Multikill Pack"
+    },
+    {
+      "Name": "Tracker",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Traitor",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Slayer Pack"
+    },
+    {
+      "Name": "Triad",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Smash Pack"
+    },
+    {
+      "Name": "Triangulate",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Triarch",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Protector Pack"
+    },
+    {
+      "Name": "Tricube",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Unicorn",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Mantis Gunner Pack"
+    },
+    {
+      "Name": "UNSC",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Slayer Victory Pack"
+    },
+    {
+      "Name": "Valencia",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Volatile",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Plasma Caster Pack"
+    },
+    {
+      "Name": "Warlord",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Against All Odds Pack"
+    },
+    {
+      "Name": "Wasp",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Ghost Gunner Pack"
+    },
+    {
+      "Name": "Watershed Division",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Close Quarters Pack"
+    },
+    {
+      "Name": "Waves",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Wraith Gunner Pack"
+    },
+    {
+      "Name": "Winged",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Unstoppable Pack"
+    },
+    {
+      "Name": "Arbiter",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Monster Energy Drink Promo"
+    },
+    {
+      "Name": "Arrow",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Astro",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "ASTRO Gaming Headset"
+    },
+    {
+      "Name": "Awake",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 148"
+    },
+    {
+      "Name": "Barcode",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Unknown"
+    },
+    {
+      "Name": "Clippy",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Special 12-Month Xbox Live Cards"
+    },
+    {
+      "Name": "Cognate",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 146"
+    },
+    {
+      "Name": "Confine",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Loadout Weapon Mastery Pack"
+    },
+    {
+      "Name": "Danger! Explosion",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Monster Energy Drink Promo"
+    },
+    {
+      "Name": "Fireteam Castle",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fireteam Majestic",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Flaming Ninja",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Frozen Treat",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Glyphs",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Monster Energy Drink Promo"
+    },
+    {
+      "Name": "Grenadier",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Grenade Mastery Pack"
+    },
+    {
+      "Name": "Grizzly Tank",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hexa",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hot Pie",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Unknown"
+    },
+    {
+      "Name": "Iris",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Slayer Mastery Pack"
+    },
+    {
+      "Name": "Isosceles",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Forerunner Power Weapon Mastery Pack"
+    },
+    {
+      "Name": "J!nx",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "J!nx Clothing Items"
+    },
+    {
+      "Name": "Kindred",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 145"
+    },
+    {
+      "Name": "LDC Seal",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Gamestop Preorder Bonus"
+    },
+    {
+      "Name": "Liang Dortmund",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Gamestop Preorder Bonus"
+    },
+    {
+      "Name": "Mega Bloks Banner",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Mega Bloks Set"
+    },
+    {
+      "Name": "Mega Bloks X",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Mega Bloks Set"
+    },
+    {
+      "Name": "Microsoft Bob",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Special 12-Month Xbox Live Cards"
+    },
+    {
+      "Name": "Mister Chief",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "MS-DOS",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Microsoft Store Preorder"
+    },
+    {
+      "Name": "Pigs Fly",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Pyramid",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Breakout Mastery Pack"
+    },
+    {
+      "Name": "Redeem",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Special 12-Month Xbox Live Cards"
+    },
+    {
+      "Name": "Renewing Worlds",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Gamestop Preorder Bonus"
+    },
+    {
+      "Name": "Slumber",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 147"
+    },
+    {
+      "Name": "Spartan-IV",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "UNSC Power Weapon Mastery Pack"
+    },
+    {
+      "Name": "Spicy Locke",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Sprinkles",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Summit",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Stronghold Mastery Pack"
+    },
+    {
+      "Name": "Thanks Given",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Thanksgiving REQ Pack"
+    },
+    {
+      "Name": "Unworthy",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Covenant Power Weapon Mastery Pack"
+    },
+    {
+      "Name": "Vanguard",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Halo 5 Edition Console"
+    },
+    {
+      "Name": "Acheron Security",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "AMG Transport Dynamics",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Axis",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Beta Prime",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Halo 5 Beta"
+    },
+    {
+      "Name": "Beta Recruit",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Halo 5 Beta"
+    },
+    {
+      "Name": "Beta Star",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Halo 5 Beta"
+    },
+    {
+      "Name": "Candy Canes",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Christmastime REQ Pack"
+    },
+    {
+      "Name": "Covenant",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Microsoft Store Preorder"
+    },
+    {
+      "Name": "Great Wheel",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Vehicle Mastery Pack"
+    },
+    {
+      "Name": "Guardian",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 151"
+    },
+    {
+      "Name": "Halo Championship Series",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "HCS Pack"
+    },
+    {
+      "Name": "Halo Channel",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Halo Channel Promo Pack"
+    },
+    {
+      "Name": "Lethbridge Industrial",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Librarian",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Halo Community Feedback Program"
+    },
+    {
+      "Name": "Magnum Opus",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Arena Mastery Pack"
+    },
+    {
+      "Name": "Mantle",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 152"
+    },
+    {
+      "Name": "Misriah Armory",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Monolith",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Prima",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Collector's Edition Strategy Guide"
+    },
+    {
+      "Name": "Sentient",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 115"
+    },
+    {
+      "Name": "Spartan Claus",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": "Christmastime REQ Pack"
+    },
+    {
+      "Name": "Stuck",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Warden",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartan Rank 150"
+    },
+    {
+      "Name": "War's Quintet",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Warzone Mastery Pack"
+    },
+    {
+      "Name": "Atrial Flight",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Boomco.",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "BR 55",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Chamomile",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Keeper of the Domain",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Kig-Yar",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Number Twelve",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Snake",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Unggoy",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Crossed Swords",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "January 2016 Season",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Qualify during January 2016 Season"
+    },
+    {
+      "Name": "Forge Monitor",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Brute",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Spartan Helmet",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Triplicate",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Golden Arm",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Kinetic",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Vertigo",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Ducat",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Grifball",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Rabbit",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tartan",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "M6D",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "True Light",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Spartans Will Never Walk Alone pack"
+    },
+    {
+      "Name": "February 2016 Season",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Qualify during February 2016 Season"
+    }
+  ]
+}

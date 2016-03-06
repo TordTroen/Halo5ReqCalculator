@@ -1,0 +1,1460 @@
+﻿{
+  "Items": [
+    {
+      "Name": "Air Assault",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Anubis",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Athlon",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Athlon Lycinus",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Athlon Varazdat",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Aviator",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Aviator Ace",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Aviator Delta",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Breaker",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "EVA",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Foehammer",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Jumpmaster",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Jumpmaster Sky Soldier",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Legionnaire",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Legionnaire Optio",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recluse",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recluse Laeta",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recon",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recruit",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recruit Charred",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Soldier",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Soldier Leatherneck",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Valkyrie",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Valkyrie Eir",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Warrior",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Warrior Helm",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Air Assault Disrupt",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Anubis Nephthys",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Athlon Cynisca",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Aviator Csar",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Breaker Hatchetman",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Buccaneer",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Commando",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Cypher",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Cypher Copiale",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Enforcer",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Engineer",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "EVA Hadfield",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fenrir",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Foehammer Echo",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Freebooter",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Goblin",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Goblin Erlking",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hellcat",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Interceptor",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Interceptor Cutter",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Jumpmaster Ripcord",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Legionnaire Alaris",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mako",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Nomad",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Orbital",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Pathfinder",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Pioneer",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Raijin",
+      "Rarity": "Common",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": "Available in Bronze Packs"
+    },
+    {
+      "Name": "Recluse Seri",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recon RSO",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recruit Marked",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Scout",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Seeker",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Seeker Intrepid",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Soldier Rebel",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Teishin",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tracer",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tracer Jackpoint",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Valkyrie Hrist",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Vector",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Vector Interrupt",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Venture",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Viper",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Warrior Blade",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Warrior Shield",
+      "Rarity": "Uncommon",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Air Assault Impact",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Anubis Set",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Argonaut",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Athlon Iccus",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Breaker Doomsday",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Buccaneer Tyr",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "CIO",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Commando Verde",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Cypher Voynich",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Defender",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Defender Castle",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "EVA Solovyev",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fenrir Unchained",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fenrir Woebringer",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Foehammer Victor",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Freebooter Privateer",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Goblin Dokkaebi",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hellcat Marauder",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Infiltrator",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Interceptor Imperator",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mako Chthonic",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Noble",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Nomad Wanderlust",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Operator",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Orbital Perihelion",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Pathfinder Trailbreaker",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Protector",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Raijin Stormstrike",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Reaper",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recon BDA",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recruit Proven",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Scout Decoy",
+      "Rarity": "Rare",
+      "Have": "s",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Security",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Seeker Horizon",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Soldier Dogface",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Stalker",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Strider",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Teishin Shuurai",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tracer Signal",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Tracker",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Vector Sequence",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Venture Outward Bound",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Viper Strike",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "War Master",
+      "Rarity": "Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Air Assault Specialist",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Argonaut Nestor",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Buccaneer Illyri",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Commando Arius",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Deadeye",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Defender Redoubt",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "EVA Leonov",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "EVA Zhigang",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fotus",
+      "Rarity": "Ultra Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Gungnir",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hellcat Onslaught",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mako Darkwater",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mark VI",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mark VI Satrap",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Maverick",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Noble Valor",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Nomad Unchained",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Orbital Aphelion",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Raijin Sprite",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Ranger",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Reaper Grim",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Recon ITG",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Rogue",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Rogue Cutthroat",
+      "Rarity": "Ultra Rare",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Scanner",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Scout Observer",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Security Oppressor",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Security Watchdog",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Shinobi",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Teishin Raikou",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Venator",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Venator Retiarus",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Viper Venom",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "War Master Tiberian",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Wetwork",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Wetwork Cleaner",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Argonaut Idmon",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Argus",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Argus Arestor",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Athlon Champion",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Available through HCS Pack"
+    },
+    {
+      "Name": "Centurion",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Centurion Ironside",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Commando Matrix",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Copperhead",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Copperhead Fangs",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Defender Fortress",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fotus Chillrose",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Fotus Synchronize",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Helioskrill",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Get the “Legend” Achievement in the MCC"
+    },
+    {
+      "Name": "Helljumper",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Helljumper Feet First",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hermes",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hermes Dolios",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Hunter",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Locus",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Locus Edge",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mark IV [GEN1]",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mark VI [Gen1]",
+      "Rarity": "Legendary",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Get the “Your Journey Begins” Achievement in the MCC"
+    },
+    {
+      "Name": "Mark VI [Gen1] Scarred",
+      "Rarity": "Legendary",
+      "Have": "x",
+      "Standard": "No",
+      "Notes": "Get the “Cairo Station” Achievement in the MCC"
+    },
+    {
+      "Name": "Mark VI Primus",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mark VI Regent",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Maverick Jester",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Nightfall",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Watch the Halo: Nightfall Episode 1 Second Story"
+    },
+    {
+      "Name": "Noble Honor",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Orbital Equinox",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Raider",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Reaper Mortician",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Scout Outrider",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Technician",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Technician Override",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Venator Cestus",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Venator Thraex",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Void Dancer",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Void Dancer Comet",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "War Master Augustan",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "War Master Scipio",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Atlas",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Atlas Vigilant",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Enforcer Strongarm",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Stalker Arrow",
+      "Rarity": "Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Achilles",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "No",
+      "Notes": "Available through Spartan Company Commendations"
+    },
+    {
+      "Name": "Atlas Unbound",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Infiltrator Saboteur",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Gungir Dvalin",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Mark V Alpha",
+      "Rarity": "Legendary",
+      "Have": "x",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Jumpmaster Dispatcher",
+      "Rarity": "Uncommon",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Decimator",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Marauder",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Marauder Kratos",
+      "Rarity": "Ultra Rare",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Helioskrill Bloodgorger",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Helioskrill Warbound",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Marauder Keres",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    },
+    {
+      "Name": "Shinobi Heartless",
+      "Rarity": "Legendary",
+      "Have": "",
+      "Standard": "Yes",
+      "Notes": ""
+    }
+  ]
+}

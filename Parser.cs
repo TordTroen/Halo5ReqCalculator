@@ -1,4 +1,5 @@
 ﻿using HtmlAgilityPack;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -11,22 +12,38 @@ namespace Halo5ReqParser
 {
 	public class Parser
 	{
-		public string reqFileCustomization = "H5ReqCust.htm";
-		public string reqFileLoadout = "H5ReqLoad.htm";
-		public string reqFilePower = "H5ReqPower.htm";
+		public string reqFileCustomization = "Data/H5ReqCust.htm";
+		public string reqFileLoadout = "Data/H5ReqLoad.htm";
+		public string reqFilePower = "Data/H5ReqPower.htm";
 
-		public string haveOwnedPattern = "data-have-owned=\"((True)|(False))\"";
-		public string haveCertPattern = "data-has-certification=\"((True)|(False))\"";
-		public string isDurablePattern = "data-is-durable=\"((True)|(False))\"";
-		public string rarityLinePattern = "data-rarity=\"((Common)|(Uncommon)|(Rare)|(Ultra Rare)|(Legendary))\"";
-		public string rarityLevelPattern = "((Common)|(Uncommon)|(Rare)|(Ultra Rare)|(Legendary))";
+		private const string DataFieldHasCert = "data-has-certification";
+		private const string DataFieldHaveOwned = "data-have-owned";
+		private const string DataFieldIsDuarble = "data-is-durable";
+		private const string DataFieldRarity = "data-rarity";
+		private const string DataFieldName = "data-name";
+		private const string DataFieldSubCategory = "data-subcategory";
 
-		public List<ReqGroupCategory> reqGroups = new List<ReqGroupCategory>();
+		private readonly string haveOwnedPattern = "data-have-owned=\"((True)|(False))\"";
+		private readonly string haveCertPattern = "data-has-certification=\"((True)|(False))\"";
+		private readonly string isDurablePattern = "data-is-durable=\"((True)|(False))\"";
+		private readonly string rarityLinePattern = "data-rarity=\"((Common)|(Uncommon)|(Rare)|(Ultra Rare)|(Legendary))\"";
+		private readonly string rarityLevelPattern = "((Common)|(Uncommon)|(Rare)|(Ultra Rare)|(Legendary))";
+
+		private readonly string dataValuePattern = "=\".*?\"";
+
+		private List<ReqSpecialRewardDataContainer> reqSpecialDataContainer = new List<ReqSpecialRewardDataContainer>();
+		private readonly string[] specialDataFiles = new string[]
+		{
+			"Data/dbHelmetList.json",
+			"Data/dbArmorList.json",
+			"Data/dbEmblemList.json"
+		};
+		private List<ReqGroupCategory> reqGroups = new List<ReqGroupCategory>();
 
 		//public static ReqPack BronzePack = new ReqPack("Bronze", 1250, 1, 100);
 		//public static ReqPack SilverPack = new ReqPack("Silver", 5000, 2);
 		//public static ReqPack GoldPack = new ReqPack("Gold", 10000, 2);
-		public readonly ReqPack[] ReqPacks = new ReqPack[]
+		private readonly ReqPack[] ReqPacks = new ReqPack[]
 		{
 			new ReqPack("Bronze", 1250, 1, 100),
 			new ReqPack("Silver", 5000, 2),
@@ -46,6 +63,9 @@ namespace Halo5ReqParser
 		public int ParseAllReqs()
 		{
 			int parseStatus = 0;
+
+			// Parsing
+			ParseJsonData();
 			parseStatus += ParseData(reqFileCustomization, ReqCategory.Customization);
 			parseStatus += ParseData(reqFileLoadout, ReqCategory.Loadout);
 			parseStatus += ParseData(reqFilePower, ReqCategory.PowerVehicle);
@@ -55,8 +75,8 @@ namespace Halo5ReqParser
 				return 1;
 			}
 
+			// Tally up missing reqs by category into a total by category
 			int ownedCount = 0, totalCount = 0;
-			//int[] totals = new int[] { 0, 0, 0, 0, 0 };
 			List<ReqGroupStat> totals = new List<ReqGroupStat>();
 			for (int i = 0; i < Enum.GetNames(typeof(RarityLevel)).Length; i++)
 			{
@@ -80,23 +100,19 @@ namespace Halo5ReqParser
 				IO.Printl();
 			}
 
+			IO.Printl("Totals: ");
 			foreach (var total in totals)
 			{
-				GetLowestCardForRarity(total.RarityLevel).NeededCount += total.TotalCount - total.OwnedCount;
+				int needed = total.TotalCount - total.OwnedCount;
+				IO.Printl(string.Format(" - {0, -9}: {1}/{2} ({3})", total.RarityLevel, total.OwnedCount, total.TotalCount, needed));
+				GetLowestCardForRarity(total.RarityLevel).ItemsNeededCount = needed;
 			}
+			IO.Printl();
 
 			IO.Printl(string.Format("Total: {0}/{1}", ownedCount, totalCount));
-			//for (int i = 0; i < totals.Length; i++)
-			//foreach (var total in totals)
-			//{
-			//	printl(string.Format("Total {0} count: {1}/{2} ({3} left)", total.RarityLevel, total.OwnedCount, total.TotalCount, (total.TotalCount - total.OwnedCount)));
-			//	int cardsRequired = GetMinimumRequiredCards(total.RarityLevel, total.TotalCount, total.OwnedCount);
-			//	printl(string.Format(" -> {0} packs needed: {1}", GetLowestCardForRarity(total.RarityLevel).Name, cardsRequired));
-			//}
-
 			foreach (var pack in ReqPacks)
 			{
-				IO.Printl(string.Format(" {0, 7} packs needed: {1} ({2:###,###} RP)", pack.Name, pack.NeededCount, pack.NeededCount * pack.Price));
+				IO.Printl(string.Format(" {0, 7} packs needed: {1} ({2:###,###} RP)", pack.Name, pack.ItemsNeededCount, pack.PacksNeededCount * pack.Price));
 			}
 			return 0;
 		}
@@ -136,28 +152,22 @@ namespace Halo5ReqParser
 				{
 					rarity = ParseLineToRarity(rarityMatch.Value);
 				}
-				//print("Rarity = " + rarity);
 
-				// Check for data-have-owned
-				//Match match = Regex.Match(card, haveOwenedPattern);
-				//if (match.Success)
-				//{
-				//	//print("Match: " + match.Value);
-				//	bool hasOwned = match.Value.Contains("True");
-				//	if (hasOwned)
-				//	{
-				//		totalUnlockedItems++;
-				//		reqGroupStats[(int)rarity].OwnedCount++;
-				//	}
-				//}
-				bool isDurable = IsDurable(card); // True if the card is from customization or loadout, false if it is from power & vehicle
-				//printl("IsDuarble: " + isDurable);
-				if (isDurable)
+				bool isSpecial = false;
+				if (IsDurable(card)) // True if the card is from customization or loadout, false if it is from power & vehicle
 				{
 					if (HaveOwned(card))
 					{
-						reqGroups[(int)category].OwnedCount++;
-						reqGroups[(int)category].reqGroupStats[(int)rarity].OwnedCount++;
+						string name = GetValueFromDataField(card, DataFieldName);
+						string subCategoryData = GetValueFromDataField(card, DataFieldSubCategory);
+						ReqType reqType = DataFieldToReqType(subCategoryData);
+						isSpecial = IsSpecialReq(name, reqType);
+
+						if (!isSpecial)
+						{
+							reqGroups[(int)category].OwnedCount++;
+							reqGroups[(int)category].reqGroupStats[(int)rarity].OwnedCount++;
+						}
 					}
 				}
 				else
@@ -168,12 +178,87 @@ namespace Halo5ReqParser
 						reqGroups[(int)category].reqGroupStats[(int)rarity].OwnedCount++;
 					}
 				}
-				reqGroups[(int)category].reqGroupStats[(int)rarity].TotalCount++;
-				reqGroups[(int)category].TotalCount++;
+				if (!isSpecial)
+				{
+					reqGroups[(int)category].reqGroupStats[(int)rarity].TotalCount++;
+					reqGroups[(int)category].TotalCount++;
+				}
 			}
 
 			IO.Printl(" done\n");
 			return 0;
+		}
+
+		private void ParseJsonData()
+		{
+			IO.Print("Initializing... ");
+
+			reqSpecialDataContainer = new List<ReqSpecialRewardDataContainer>();
+			//foreach (var dataFile in specialDataFiles)
+			for(int i = 0; i < specialDataFiles.Length; i ++)
+			{
+				//var dataPath = "~/Content/dummy-data.json";
+				//dataPath = HttpContext.Current.Server.MapPath(dataPath);
+				var json = File.ReadAllText(specialDataFiles[i]);
+				var dataObj = JsonConvert.DeserializeObject<ReqSpecialRewardDataContainer>(json);
+				reqSpecialDataContainer.Add(dataObj);
+				//foreach (var item in dataObj.Items)
+				//{
+				//	IO.Printl("Name: "+ item.Name);
+				//}
+
+				//reqSpecialDataContainer.Add(dataObj);
+
+				IO.Print(string.Format("[{0}/{1}] ", i+1, specialDataFiles.Length));
+			}
+			IO.Print("done\n");
+		}
+
+		private bool IsSpecialReq(string name, ReqType reqType)
+		{
+			if ((int)reqType < reqSpecialDataContainer.Count)
+			{
+				foreach (var item in reqSpecialDataContainer[(int)reqType].Items)
+				{
+					if (item.Name == name)
+					{
+						if (!string.IsNullOrEmpty(item.Notes))
+						{
+							return true;
+						}
+					}
+				}
+			}
+			return false;
+		}
+
+		private string GetValueFromDataField(string text, string handle)
+		{
+			Match match = Regex.Match(text, handle + dataValuePattern);
+			if (match.Success)
+			{
+				// TODO Put this in its own Regex object for performance??
+				match = Regex.Match(match.Value, dataValuePattern);
+				if (match.Success)
+				{
+					string value = match.Value;
+					return value.Substring(2, value.Length - 3);
+				}
+			}
+			return null;
+		}
+
+		private bool GetDataBoolValue(string data)
+		{
+			if (data == null) return false;
+			return data.ToLower().Contains("true");
+		}
+
+		private ReqType DataFieldToReqType(string data)
+		{
+			ReqType reqType = ReqType.Loadout;
+			Enum.TryParse(data, out reqType);
+			return reqType;
 		}
 
 		/// <summary>
@@ -183,12 +268,8 @@ namespace Halo5ReqParser
 		/// <returns></returns>
 		bool HaveOwned(string card)
 		{
-			Match match = Regex.Match(card, haveOwnedPattern);
-			if (match.Success)
-			{
-				return match.Value.Contains("True");
-			}
-			return false;
+			string data = GetValueFromDataField(card, DataFieldHaveOwned);
+			return GetDataBoolValue(data);
 		}
 
 		/// <summary>
@@ -198,12 +279,8 @@ namespace Halo5ReqParser
 		/// <returns></returns>
 		bool HaveCert(string card)
 		{
-			Match match = Regex.Match(card, haveCertPattern);
-			if (match.Success)
-			{
-				return match.Value.Contains("True");
-			}
-			return false;
+			string data = GetValueFromDataField(card, DataFieldHasCert);
+			return GetDataBoolValue(data);
 		}
 
 		/// <summary>
@@ -213,12 +290,8 @@ namespace Halo5ReqParser
 		/// <returns></returns>
 		bool IsDurable(string card)
 		{
-			Match match = Regex.Match(card, isDurablePattern);
-			if (match.Success)
-			{
-				return match.Value.Contains("True");
-			}
-			return false;
+			string data = GetValueFromDataField(card, DataFieldIsDuarble);
+			return GetDataBoolValue(data);
 		}
 		
 		/// <summary>
@@ -267,12 +340,27 @@ namespace Halo5ReqParser
 
 		public RarityLevel ParseLineToRarity(string line)
 		{
-			Match match = Regex.Match(line, rarityLevelPattern);
-			string name = match.Value;
+			//Match match = Regex.Match(line, rarityLevelPattern);
+			//string name = match.Value;
+			string name = GetValueFromDataField(line, DataFieldRarity);
 
 			string rarityNoSpaces = Regex.Replace(name, @"\s+", "");
 			var rarityLevel = (RarityLevel)Enum.Parse(typeof(RarityLevel), rarityNoSpaces, true);
 			return rarityLevel;
+		}
+
+		public class ReqSpecialRewardData
+		{
+			public string Name { get; set; }
+			public string Rarity { get; set; }
+			public string Have { get; set; }
+			public string Standard { get; set; }
+			public string Notes { get; set; }
+		}
+
+		public class ReqSpecialRewardDataContainer
+		{
+			public List<ReqSpecialRewardData> Items { get; set; }
 		}
 
 		public class ReqGroupCategory
@@ -320,13 +408,29 @@ namespace Halo5ReqParser
 			PowerVehicle
 		}
 
+		public enum ReqType
+		{
+			Helmet,
+			ArmorSuit,
+			Emblem,
+			Visor,
+			Stance,
+			Assassination,
+			WeaponSkin,
+			PowerWeapon,
+			Vehicle,
+			Equipment,
+			Loadout
+		}
+
 		public class ReqPack
 		{
 			public string Name { get; set; }
 			public int Price { get; set; }
 			public int PermCount { get; set; }
 			public int PermChance { get; set; }
-			public int NeededCount { get; set; }
+			public int ItemsNeededCount { get; set; }
+			public int PacksNeededCount { get { return (ItemsNeededCount - 1) / PermCount + 1; ; } }
 
 			public ReqPack(string name, int price, int permCount, int permChance = 100)
 			{
@@ -334,7 +438,7 @@ namespace Halo5ReqParser
 				Price = price;
 				PermCount = permCount;
 				PermChance = permChance;
-				NeededCount = 0;
+				ItemsNeededCount = 0;
 			}
 		}
 	}
