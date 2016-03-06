@@ -23,9 +23,14 @@ namespace Halo5ReqParser
 			Console.Write(s);
 		}
 
+		public static void PrintBreak()
+		{
+			Printl("---------------------------------------------\n");
+		}
+
 		public static void PrintDivider()
 		{
-			Printl("---------------------------------");
+			Printl("=============================================\n");
 		}
 
 		public static string GetLine(string header)

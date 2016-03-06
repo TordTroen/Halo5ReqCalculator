@@ -74,13 +74,13 @@
     <None Include="Resources\HWPageFile.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Data\H5ReqCust.htm">
+    <Content Include="Data\H5ReqCustTest.htm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\H5ReqLoad.htm">
+    <Content Include="Data\H5ReqLoadTest.htm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\H5ReqPower.htm">
+    <Content Include="Data\H5ReqPowerTest.htm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
